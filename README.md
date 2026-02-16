@@ -80,7 +80,7 @@ tree_fwork doctor
 tree_fwork drop
 ```
 # Клонирование репозитория
-git clone https://github.com/R0ma4/TreeFramework.git
+git clone https://github.com/R0ma4/TreeAPI.git
 cd TreeFramework
 
 ### Документы проекта:
