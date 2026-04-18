@@ -1,6 +1,6 @@
 ### 🌳 ArborRoot
 
-**C№ фреймворк для создания древовидных сетей устройств с локальным сервером и расширенным управлением файлами**
+**C# фреймворк для создания древовидных сетей устройств с локальным сервером и расширенным управлением файлами**
 
 [![C++](https://img.shields.io/badge/C++-17+-00599C?style=flat&logo=c%2B%2B)](https://isocpp.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
